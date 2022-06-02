@@ -1,4 +1,4 @@
-# <a href="https://Vol123.github.io/rsschool-cv/">rsschool-cv</a>
+# rsschool-cv
 ---
 # <span style="color: dodgerblue; font-style: italic; font-size: 45px;">Haleta Vladimir</span>
 ---
