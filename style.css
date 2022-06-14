@@ -100,6 +100,13 @@ footer {
     margin: 1.5% 1%;
 }
 
+.linkVideo {
+    color: aqua;
+    text-decoration: none;
+    margin: 1% 1%;
+    font-size: 25px;
+}
+
 .linkMenu {
     font-size:30px;
     font-variant: small-caps;
